@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/name1"
+        android:title="Mrinmoy"
+        android:icon="@drawable/ic_android"
+        android:color="@color/logger"/>
+    <item
+        android:id="@+id/name2"
+        android:title="Indrajit"
+        android:checked="true"
+        android:icon="@drawable/ic_android"
+        android:color="@color/home"/>
+
+    <item
+        android:id="@+id/name3"
+        android:title="Rupa"
+        android:icon="@drawable/ic_android"
+        android:color="@color/logger"/>
+</menu>
